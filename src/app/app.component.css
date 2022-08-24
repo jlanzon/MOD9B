@@ -1,0 +1,63 @@
+.form {
+  width: 40vw;
+  margin-left: 30vw;
+  margin-right: 30vw;
+}
+
+.example-full-width {
+  width: 100%;
+}
+
+.home{
+  display: flex;
+}
+
+
+.API{
+  position: fixed;
+}
+
+.map{
+  position: fixed;
+  bottom: 0;
+  height: 50vh;
+  width: 100vw;
+}
+.mapbox{
+  position: fixed;
+  bottom: 0;
+}
+#map{
+  height: 100%;
+}
+.mat-tab-group {
+  margin-bottom: 48px;
+  width: 100vw;
+}
+
+.example-container {
+  position: relative;
+}
+
+.example-table-container {
+  position: relative;
+  min-height: 200px;
+  max-height: 400px;
+  height: 20vh;
+  overflow: auto;
+}
+.infoCard{
+  position: fixed;
+  bottom: 50vh;
+  width: 70vw;
+  margin-left: 15vw;
+  margin-right: 15vw;
+  text-align: center;
+}
+
+.flexcontainer{
+  display: flex;
+  height: 10vh;
+  width: 100vw;
+  bottom: 40vh;
+}
